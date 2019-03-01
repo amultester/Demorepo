@@ -23,9 +23,7 @@ public class Excel_read_write {
         System.out.println("The excel value is" +sheetvalue );
        
        
-       //write
-        //first commit
-       
+      
       sh1.getRow(0).createCell(17).setCellValue("25");
       FileOutputStream src1 = new FileOutputStream (new File("C:\\Users\\innobot-user-1.LAPTOP-9DDO4JSH\\Downloads\\Untitled 4.xlsx"));
       wb.write(src1);
