@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/innobot-user-1.LAPTOP-9DDO4JSH/.eclipse/jars/use_this_apachi_jar_file/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
